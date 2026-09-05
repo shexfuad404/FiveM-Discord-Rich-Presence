@@ -1,15 +1,15 @@
 Config = {}
 
-Config.AppId = 'YOUR_DISCORD_APP_ID'
+Config.AppId = '1245727635536085032'
 
 Config.LargeAsset = {
     image = 'large_image',
-    text = 'Your Server Name'
+    text = 'Kurdistan Real City'
 }
 
 Config.SmallAsset = {
     image = 'small_image',
-    text = 'Your Server Name (Small)'
+    text = 'Kurdistan Real City'
 }
 
 Config.Buttons = {
