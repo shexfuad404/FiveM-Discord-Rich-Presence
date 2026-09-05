@@ -8,13 +8,13 @@ Config.LargeAsset = {
 }
 
 Config.SmallAsset = {
-    image = 'small_image',
+    image = 'https://cdn.discordapp.com/attachments/1200141158471438446/1545845005623627817/753ecc492be16916ede6f516cc06f254.jpg?ex=6a9d9fd9&is=6a9c4e59&hm=309f709e87dd208d1ec1366a46458b34175a34241b84621a1f35260d2521867d&',
     text = 'Kurdistan Real City'
 }
 
 Config.Buttons = {
-    { label = "Join Discord", url = "https://discord.gg/yourserver" },
-    { label = "Visit Store", url = "https://yourstore.tebex.io" }
+    { label = "Discord", url = "https://discord.gg/yourserver" },
+    { label = "Website", url = "https://kurdistan-real-city.pages.dev" }
 }
 
 Config.Options = {
